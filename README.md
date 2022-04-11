@@ -2,7 +2,7 @@
 
 ## Overview
 
-This exploratory data analysis aims to evaluate the metrics for the ridesharing organization, PyBer. A summary dataframe outlines the distribution of drivers and ride counts by city types as well as the average fare for each city type with a graphical representation of the data. 
+This data analysis aims to evaluate the metrics for the ridesharing organization, PyBer. A summary dataframe outlines the distribution of drivers and ride counts by city types as well as the average fare for each city type with a graphical representation of the data. 
 
 ## Results
 
